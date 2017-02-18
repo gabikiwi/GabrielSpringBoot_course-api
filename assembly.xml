@@ -6,13 +6,7 @@
     <format>zip</format>
   </formats>
   <fileSets>
-    <fileSet>
-      <outputDirectory>/</outputDirectory>
-      <directory>target</directory>
-      <includes>
-        <include>*.war</include>
-      </includes>
-    </fileSet>
+ 
     <fileSet>
       <outputDirectory>/</outputDirectory>
       <directory>src/main/resources</directory>
