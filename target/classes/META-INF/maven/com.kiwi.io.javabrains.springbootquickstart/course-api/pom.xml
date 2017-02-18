@@ -10,7 +10,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.4.2.RELEASE</version>
+		<version>1.3.3.RELEASE</version>
 	</parent>
 
 
@@ -23,16 +23,16 @@
 
 
 
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.apache.tomcat.embed</groupId> -->
-<!-- 			<artifactId>tomcat-embed-jasper</artifactId> -->
-<!-- 			<scope>provided</scope> -->
-<!-- 		</dependency> -->
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.springframework.boot</groupId> -->
-<!-- 			<artifactId>spring-boot-starter-tomcat</artifactId> -->
-<!-- 			<scope>provided</scope> -->
-<!-- 		</dependency> -->
+		<dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-jasper</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-tomcat</artifactId>
+			<scope>provided</scope>
+		</dependency>
 <!-- 		<dependency> -->
 <!-- 			<groupId>org.apache.cxf</groupId> -->
 <!-- 			<artifactId>cxf-spring-boot-starter-jaxrs</artifactId> -->
