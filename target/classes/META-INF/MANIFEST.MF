@@ -3,7 +3,7 @@ Implementation-Title: Java Brains Course API
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: gchivoiu
 Implementation-Vendor-Id: com.kiwi.io.javabrains.springbootquickstart
-Build-Jdk: 1.8.0_121
+Build-Jdk: 1.8.0_51
 Implementation-URL: http://projects.spring.io/spring-boot/course-api/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
