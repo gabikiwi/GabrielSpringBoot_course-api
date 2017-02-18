@@ -2,7 +2,7 @@
   "runtime": {
     "majorVersion": "8"
   },
-  "command": "java -Dserver.port=$PORT -jar springbootdemo-0.0.1.war",
+  "command": "java -jar course-api-0.0.1-SNAPSHOT.jar",
   "startupTime": "300",
-  "notes": "SpringBoot demo application"
+  "notes": "Gabriel Chivoiu SpringBoot demo application"
 }
